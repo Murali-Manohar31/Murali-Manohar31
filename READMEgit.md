@@ -50,11 +50,12 @@ A Python-based cricket scoring application designed to manage matches and scorin
 - Overs and innings management
 - Match history
 
-### 👁️ Object Detection
+### 📊 IPL Insights
 
-A computer vision project focused on detecting and identifying objects from images/video using Python and machine learning techniques.
+An IPL data analysis project built using **Python, Jupyter Notebook, NumPy, Pandas, Matplotlib, and Seaborn** to explore IPL match data and derive useful insights through data analysis and visualization.
 
----
+🔗 [View Project → IPL-Insights](https://github.com/Murali-Manohar31/IPL-Insights)
+
 
 ## 📚 Current Learning Path
 
@@ -81,11 +82,6 @@ Computer Vision
 My goal is to build a strong foundation in **AI/ML** and create useful real-world applications.
 
 ---
-### 📊 IPL Insights
-
-An IPL data analysis project built using **Python, Jupyter Notebook, NumPy, Pandas, Matplotlib, and Seaborn** to explore IPL match data and derive useful insights through data analysis and visualization.
-
-🔗 [View Project → IPL-Insights](https://github.com/Murali-Manohar31/IPL-Insights)
 
 
 ⭐ **Thanks for visiting my profile!**
